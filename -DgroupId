@@ -1,0 +1,21 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------< com.example:spring-boot-3-todo-application >-------------
+[INFO] Building spring-boot-3-todo-application 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-install-plugin:3.0.1:install-file (default-cli) @ spring-boot-3-todo-application ---
+[ERROR] The specified file 'C:\Project\ToDoList\spring-boot-3-todo-application\=org.webjars' does not exist
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.297 s
+[INFO] Finished at: 2023-02-13T16:38:56+07:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-install-plugin:3.0.1:install-file (default-cli) on project spring-boot-3-todo-application: The specified file 'C:\Project\ToDoList\spring-boot-3-todo-application\=org.webjars' does not exist -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
