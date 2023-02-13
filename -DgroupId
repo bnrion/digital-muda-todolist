@@ -1,11 +1,11 @@
 [INFO] Scanning for projects...
 [INFO] 
-[INFO] -------------< com.example:spring-boot-3-todo-application >-------------
-[INFO] Building spring-boot-3-todo-application 0.0.1-SNAPSHOT
+[INFO] -------------< com.example:digital-muda-todolist >-------------
+[INFO] Building digital-muda-todolist 0.0.1-SNAPSHOT
 [INFO] --------------------------------[ jar ]---------------------------------
 [INFO] 
-[INFO] --- maven-install-plugin:3.0.1:install-file (default-cli) @ spring-boot-3-todo-application ---
-[ERROR] The specified file 'C:\Project\ToDoList\spring-boot-3-todo-application\=org.webjars' does not exist
+[INFO] --- maven-install-plugin:3.0.1:install-file (default-cli) @ digital-muda-todolist ---
+[ERROR] The specified file 'C:\Project\ToDoList\digital-muda-todolist\=org.webjars' does not exist
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD FAILURE
 [INFO] ------------------------------------------------------------------------
