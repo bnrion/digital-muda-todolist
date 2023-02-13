@@ -20,7 +20,11 @@ download bootstrap jar dari
 2. boostrap icon versi 1.10.3 dari https://mvnrepository.com/artifact/org.webjars.npm/bootstrap-icons
 
 install jar bootstrap di lokal
+```console
 mvn install:install-file -Dfile=<path-to-jar> -DgroupId=<group-id> -DartifactId=<artifact-id> -Dversion=<version> -Dpackaging=jar
+```
+```console
 mvn clean install
+```
 
 jika sudah update ke maven terbaru (jika menggunakan intellij, akan muncul notifikasi secara otomatis)
