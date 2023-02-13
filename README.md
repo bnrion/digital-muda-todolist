@@ -13,7 +13,7 @@ Aplikasi ini dibuat menggunakan
 
 # instruksi untuk deployment
 
-git clone https://github.com/bnrion/digital-muda-todolist.git
+```git clone https://github.com/bnrion/digital-muda-todolist.git```
 
 download bootstrap jar dari
 1. bootstrap versi 5.2.3 dari https://mvnrepository.com/artifact/org.webjars/bootstrap
