@@ -20,10 +20,10 @@ download bootstrap jar dari
 2. boostrap icon versi 1.10.3 dari https://mvnrepository.com/artifact/org.webjars.npm/bootstrap-icons
 
 install jar bootstrap di lokal
-```console
+```command prompt
 mvn install:install-file -Dfile=<path-to-jar> -DgroupId=<group-id> -DartifactId=<artifact-id> -Dversion=<version> -Dpackaging=jar
 ```
-```console
+```command prompt
 mvn clean install
 ```
 
